@@ -4,11 +4,11 @@
 [![Abu Hurairah's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbuHurairah127&bg_color=1d3557&color=457b9d&line=457b9d&point=e63946)](https://github.com/AbuHurairah127/github-readme-activity-graph)
 ## Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samishoukat12&hide=PureBasic&langs_count=12)](https://github.com/samishoukat12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhurairah127&hide=PureBasic&langs_count=12)](https://github.com/abuhurairah127)
 
 ## Consistency:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samishoukat12&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abuhurairah127&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
 
 
