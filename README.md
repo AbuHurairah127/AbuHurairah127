@@ -5,6 +5,13 @@
 ## Top Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samishoukat12&hide=PureBasic&langs_count=12)](https://github.com/samishoukat12)
+
+## Consistency:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samishoukat12&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+
+
+
 <!--
 **AbuHurairah127/AbuHurairah127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
