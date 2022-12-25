@@ -10,7 +10,7 @@
 
 
 
-## 🕸️ **WEB DEV**
+## 🕸️ **WEB DEV TOOLS**
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")](https://github.com/AbuHurairah127)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")](https://github.com/AbuHurairah127)
