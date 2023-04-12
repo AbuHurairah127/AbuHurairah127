@@ -2,7 +2,7 @@
 #Hi all, I'm Abu Hurairah! 👋
 
 
-  
+     
 ## Consistency Graph:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abuhurairah127&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
