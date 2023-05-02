@@ -24,7 +24,7 @@
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/AbuHurairah127)
 <br />
 
-## 📱 **MOBILE DEV Tools**
+## 📱 **MOBILE DEV TOOLS**
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")](https://github.com/AbuHurairah127)
 
