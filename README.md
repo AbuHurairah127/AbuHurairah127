@@ -1,6 +1,8 @@
  
 # Hi all, I'm Abu Hurairah! 👋
 ### A Developer, and teacher.
+ - Intern at [On-Planet](planetmoon.io).
+ - Instructor at [PIAIC](piaic.org)
            
      
 ## My Consistency Graph:
