@@ -1,4 +1,3 @@
- 
 # Hi all, I'm Abu Hurairah! 👋
 ### A Developer, and teacher.
  
